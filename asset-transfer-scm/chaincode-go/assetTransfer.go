@@ -8,8 +8,8 @@ import (
 	"log"
 
 	"github.com/hyperledger/fabric-contract-api-go/contractapi"
-        "github.com/Aditi964/finexus-samples/main/asset-transfer-scm/chaincode-go/chaincode"
-	#"github.com/hyperledger/fabric-samples/asset-transfer-scm/chaincode-go/chaincode"
+        //"github.com/Aditi964/finexus-samples/main/asset-transfer-scm/chaincode-go/chaincode"
+	"github.com/hyperledger/fabric-samples/asset-transfer-scm/chaincode-go/chaincode"
 )
 
 // Define main function for testing
